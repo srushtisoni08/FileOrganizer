@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9AjDey+4W1+87eNuJMw8dQOqRWkR2xfAywHumtwbEtxeE5qTQMwL6VYMqu7y8lBypCwdfp7NXaAi+RfcE5Eaw==",
+  "success": false,
+  "projectFilePath": "D:\\FileOrganizer\\FileOrganizer.Tests\\FileOrganizer.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project FileOrganizer is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project FileOrganizer supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "FileOrganizer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
