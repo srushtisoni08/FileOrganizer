@@ -1,5 +1,0 @@
-D:\FileOrganizer\FileOrganizer\obj\Debug\net6.0\FileOrganizer.csproj.AssemblyReference.cache
-D:\FileOrganizer\FileOrganizer\obj\Debug\net6.0\FileOrganizer.GeneratedMSBuildEditorConfig.editorconfig
-D:\FileOrganizer\FileOrganizer\obj\Debug\net6.0\FileOrganizer.AssemblyInfoInputs.cache
-D:\FileOrganizer\FileOrganizer\obj\Debug\net6.0\FileOrganizer.AssemblyInfo.cs
-D:\FileOrganizer\FileOrganizer\obj\Debug\net6.0\FileOrganizer.csproj.CoreCompileInputs.cache

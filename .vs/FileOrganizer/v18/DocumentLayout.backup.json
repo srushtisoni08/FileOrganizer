@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FileOrganizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CB21F5-6745-42B3-BBA3-208BCE73EE94}|FileOrganizer\\FileOrganizer.csproj|d:\\fileorganizer\\fileorganizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CB21F5-6745-42B3-BBA3-208BCE73EE94}|FileOrganizer\\FileOrganizer.csproj|solutionrelative:fileorganizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAD98A2-794A-4E10-B466-5A00F7B96B31}|FileOrganizer.Tests\\FileOrganizer.Tests.csproj|d:\\fileorganizer\\fileorganizer.tests\\fileorganizertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAD98A2-794A-4E10-B466-5A00F7B96B31}|FileOrganizer.Tests\\FileOrganizer.Tests.csproj|solutionrelative:fileorganizer.tests\\fileorganizertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileOrganizerTests.cs",
+              "DocumentMoniker": "D:\\FileOrganizer\\FileOrganizer.Tests\\FileOrganizerTests.cs",
+              "RelativeDocumentMoniker": "FileOrganizer.Tests\\FileOrganizerTests.cs",
+              "ToolTip": "D:\\FileOrganizer\\FileOrganizer.Tests\\FileOrganizerTests.cs",
+              "RelativeToolTip": "FileOrganizer.Tests\\FileOrganizerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:15:22.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FileOrganizer\\FileOrganizer\\Program.cs",
+              "RelativeDocumentMoniker": "FileOrganizer\\Program.cs",
+              "ToolTip": "D:\\FileOrganizer\\FileOrganizer\\Program.cs",
+              "RelativeToolTip": "FileOrganizer\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:15:22.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
