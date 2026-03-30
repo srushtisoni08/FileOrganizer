@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileOrganizer.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+874e348489ecc4e0131f89e9d3362c69cf002ed7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f2039853b80c9bffc0b4220b27f4104875999f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileOrganizer.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileOrganizer.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
